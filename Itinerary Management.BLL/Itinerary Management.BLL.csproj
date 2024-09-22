@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Itinerary_Management.BLL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Itinerary Management.DAL\Itinerary Management.DAL.csproj" />
+    <ProjectReference Include="..\Itinerary Management.Models\Itinerary Management.Models.csproj" />
+  </ItemGroup>
+
+</Project>

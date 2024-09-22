@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.bll\\itineraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|solutionrelative:itinerary management.bll\\itineraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DEC945-CF1A-4174-8268-189F0228F141}|Itinerary Management.Models\\Itinerary Management.Models.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.models\\itinerarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DEC945-CF1A-4174-8268-189F0228F141}|Itinerary Management.Models\\Itinerary Management.Models.csproj|solutionrelative:itinerary management.models\\itinerarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551A543-185D-436A-AF00-C9E956DDB829}|Itinerary Management\\Itinerary Management.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management\\controllers\\itinerarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551A543-185D-436A-AF00-C9E956DDB829}|Itinerary Management\\Itinerary Management.csproj|solutionrelative:itinerary management\\controllers\\itinerarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.dal\\itinerarydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|solutionrelative:itinerary management.dal\\itinerarydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DEC945-CF1A-4174-8268-189F0228F141}|Itinerary Management.Models\\Itinerary Management.Models.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DEC945-CF1A-4174-8268-189F0228F141}|Itinerary Management.Models\\Itinerary Management.Models.csproj|solutionrelative:itinerary management.models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.dal\\staydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|solutionrelative:itinerary management.dal\\staydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.dal\\itinerarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|solutionrelative:itinerary management.dal\\itinerarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.dal\\flightdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|solutionrelative:itinerary management.dal\\flightdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.dal\\activitydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C95E8D-4AAE-4AF4-9299-180F6774A66D}|Itinerary Management.DAL\\Itinerary Management.DAL.csproj|solutionrelative:itinerary management.dal\\activitydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.bll\\stayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|solutionrelative:itinerary management.bll\\stayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.bll\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|solutionrelative:itinerary management.bll\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|c:\\users\\a_olu\\onedrive\\documents\\mitt\\advanced topics in c#\\itinerary management\\itinerary management.bll\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7998A1-55E0-4C45-9949-D11EA1223E75}|Itinerary Management.BLL\\Itinerary Management.BLL.csproj|solutionrelative:itinerary management.bll\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItineraryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.Models\\ItineraryDTO.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.Models\\ItineraryDTO.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.Models\\ItineraryDTO.cs",
+              "RelativeToolTip": "Itinerary Management.Models\\ItineraryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:20:43.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItineraryController.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management\\Controllers\\ItineraryController.cs",
+              "RelativeDocumentMoniker": "Itinerary Management\\Controllers\\ItineraryController.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management\\Controllers\\ItineraryController.cs",
+              "RelativeToolTip": "Itinerary Management\\Controllers\\ItineraryController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:17:58.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Itinerary.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.Models\\Itinerary.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.Models\\Itinerary.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.Models\\Itinerary.cs",
+              "RelativeToolTip": "Itinerary Management.Models\\Itinerary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:16:02.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StayDAL.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\StayDAL.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.DAL\\StayDAL.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\StayDAL.cs",
+              "RelativeToolTip": "Itinerary Management.DAL\\StayDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:15:54.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItineraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\ItineraryDbContext.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.DAL\\ItineraryDbContext.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\ItineraryDbContext.cs",
+              "RelativeToolTip": "Itinerary Management.DAL\\ItineraryDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:15:40.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItineraryDAL.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\ItineraryDAL.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.DAL\\ItineraryDAL.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\ItineraryDAL.cs",
+              "RelativeToolTip": "Itinerary Management.DAL\\ItineraryDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlightDAL.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\FlightDAL.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.DAL\\FlightDAL.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\FlightDAL.cs",
+              "RelativeToolTip": "Itinerary Management.DAL\\FlightDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivityDAL.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\ActivityDAL.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.DAL\\ActivityDAL.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.DAL\\ActivityDAL.cs",
+              "RelativeToolTip": "Itinerary Management.DAL\\ActivityDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:18.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StayService.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\StayService.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.BLL\\StayService.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\StayService.cs",
+              "RelativeToolTip": "Itinerary Management.BLL\\StayService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItineraryService.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\ItineraryService.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.BLL\\ItineraryService.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\ItineraryService.cs",
+              "RelativeToolTip": "Itinerary Management.BLL\\ItineraryService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:09.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\FlightService.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.BLL\\FlightService.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\FlightService.cs",
+              "RelativeToolTip": "Itinerary Management.BLL\\FlightService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\ActivityService.cs",
+              "RelativeDocumentMoniker": "Itinerary Management.BLL\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\a_olu\\OneDrive\\Documents\\MITT\\Advanced Topics in C#\\Itinerary Management\\Itinerary Management.BLL\\ActivityService.cs",
+              "RelativeToolTip": "Itinerary Management.BLL\\ActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:13:56.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
