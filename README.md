@@ -163,16 +163,3 @@ Navigate to `http://localhost:5000/swagger` in your browser to access the Swagge
 ## Contributing
 
 Feel free to fork this project, submit issues, and create pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-### **Instructions**
-
-- Copy the above content into a file named `README.md` in your project directory.
-- Ensure the formatting is preserved when pasting into your text editor or IDE.
-- Customize any placeholder text (e.g., repository URLs, database settings) as necessary.
-
-Let me know if you need further adjustments!
