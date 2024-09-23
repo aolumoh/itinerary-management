@@ -25,8 +25,8 @@ The Itinerary Management System API is a centralized platform designed to help u
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/itinerary-management-system.git
-cd itinerary-management-system
+git clone https://github.com/aolumoh/itinerary-management.git
+cd itinerary-management
 ```
 
 ### Step 2: Configure the Database
